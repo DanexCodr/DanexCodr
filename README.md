@@ -75,15 +75,16 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 
 ## 📈 **Development Journey**
 
-```
+<div align="center">
 
-2018 (Age 13)        →        2020 (Age 15)        →        2024 (Age 19)
-🎯 Discovery          →        📱 Foundation         →        🚀 Innovation
-HTML inspection       →        Mobile Java           →        Coderive language
-Code beginnings       →        Java NIDE             →        GESAI AI architecture
-                                                    →        BitDT time encoding
+| **Age 13** | **Age 15** | **Age 19** |
+|------------|------------|------------|
+| 🎯 **Discovery Era** | 📱 **Foundation Era** | 🚀 **Innovation Era** |
+| First code exposure | Mobile Java development | **Coderive** language |
+| HTML inspection at computer shop | Java NIDE • Self-taught | **GESAI** AI architecture |
+| Programming curiosity begins | Mobile-first workflow established | **BitDT** time encoding |
 
-```
+</div>
 ---
 
 🎨 Beyond Programming
