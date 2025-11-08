@@ -89,6 +89,7 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 | Programming curiosity begins | Mobile-first workflow established | **BitDT** time encoding |
 
 </div>
+
 ---
 
 ## 🎨 Beyond Programming
