@@ -75,7 +75,6 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 
 ## 📈 **Development Journey**
 
-<div class="mermaid-dark">
 ```mermaid
 timeline
     title My Coding Evolution
@@ -87,21 +86,11 @@ timeline
         Language Design : Built Coderive<br>in 1 month
         AI Research : Developing GESAI<br>architecture
         Systems Design : Created BitDT<br>time encoding
+        
+    %% Individual styling
+    classDef blackRect fill:#000000,stroke:#000000,color:#ffffff,stroke-width:2px
+    class section,title blackRect
 ```
-
-</div>
-
-<style>
-.mermaid-dark .mermaid svg {
-  background-color: white !important;
-}
-.mermaid-dark .mermaid text, 
-.mermaid-dark .mermaid span,
-.mermaid-dark .mermaid tspan {
-  fill: black !important;
-  color: black !important;
-}
-</style>
 
 ---
 
