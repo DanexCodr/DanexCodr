@@ -75,21 +75,23 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 
 ## 📈 **Development Journey**
 
-```mermaid
-timeline
-    title My Coding Evolution
-    section Age 13
-        HTML Inspection : First exposure to code<br>at computer shop
-    section Age 15  
-        Java NIDE : Started learning Java<br>on mobile
-    section Present (Age 19)
-        Language Design : Built Coderive<br>in 1 month
-        AI Research : Developing GESAI<br>architecture
-        Systems Design : Created BitDT<br>time encoding
-        
-    class section,title
 ```
 
+🕒 MY CODING EVOLUTION
+
+┌─────────────┬─────────────────────────────────────────────────────┐
+│AGE 13   │  🎯 First code exposure (HTML inspection)           │
+│[2018]    │  💻 Computer shop discoveries                      │
+├─────────────┼─────────────────────────────────────────────────────┤
+│AGE 15   │  📱 Started mobile Java development                │
+│[2020]    │  🔧 Java NIDE • Self-taught programming            │
+├─────────────┼─────────────────────────────────────────────────────┤
+│AGE 19   │  🚀 Coderive language (1 month development)        │
+│[PRESENT]  │  🧠 GESAI AI architecture                          │
+││  ⏰ BitDT time encoding system                     │
+└─────────────┴─────────────────────────────────────────────────────┘
+
+```
 ---
 
 🎨 Beyond Programming
