@@ -13,7 +13,7 @@
 🛠️ **Systems Architect**
 
 
----> I'm a 19-year-old developer who builds complex systems **entirely from my phone**. I specialize in programming language design, emergent AI architectures, and data compression systems. My journey started at 13 with HTML inspection and evolved into creating complete programming languages and rethinking artificial intelligence.
+. . . . I'm a 19-year-old developer who builds complex systems **entirely from my phone**. I specialize in programming language design, emergent AI architectures, and data compression systems. My journey started at 13 with HTML inspection and evolved into creating complete programming languages and rethinking artificial intelligence.
 
 > *"Building tomorrow's tools with today's constraints"*
 
