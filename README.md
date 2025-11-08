@@ -26,7 +26,8 @@
 - Moving from fixed symbols to generated mental models
 - Currently in active development
 
-#### **💻 Coderive** 
+#### **💻 Coderive** [![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
+[Repository link: ](https://github.com/DanexCodr/Coderive)]
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
 - ✅ Native assembly code generation
@@ -34,7 +35,8 @@
 - ✅ Built solo in 1 month
 - 🎯 **Status**: Fully functional
 
-#### **⏰ BitDT**
+#### **⏰ BitDT** [![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
+[Repository link: ](https://github.com/DanexCodr/BitDT)]
 *Revolutionary Time Encoding*
 - Encodes UTC timestamps in just 10 characters
 - Covers 50k BCE to 200k CE with millisecond accuracy
