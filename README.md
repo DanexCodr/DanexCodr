@@ -107,7 +107,7 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 
 · MBTI: INTP - The Architect
 
-· Philosophy: "If it works, don't touch it" (with backup scaffolds)
+· Philosophy: "If it works, don't touch it" (with backup scaffolds incase you did touch it)
 
 · Workflow: AI-brainstorming → Mobile implementation → System optimization
 
