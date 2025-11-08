@@ -8,7 +8,7 @@
 
 ## 🧠 **About Me**
 
-🎨 **Multimedia Arts Student** |
+🎨 **Multimedia Arts & Animation Student** |
 
 🤖 **AI-Augmented Programmer** |
 
@@ -96,14 +96,18 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 #### Creative Pursuits
 
 · 🎸 Guitar & Music Production - Creating original compositions
+
 · ✏️ Digital Art & Sketching - Multimedia arts background
+
 · ♟️ Chess Strategy - Applying strategic thinking to code
 · 📚 Novel Writing - World-building and story design
 
 #### Personality & Approach
 
 · MBTI: INTP - The Architect
+
 · Philosophy: "If it works, don't touch it" (with backup scaffolds)
+
 · Workflow: AI-brainstorming → Mobile implementation → System optimization
 
 ---
@@ -113,13 +117,17 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 I'm Interested In:
 
 · 🧩 Emergent AI Research
+
 · 🗣️ Programming Language Design
+
 · 🔧 Compiler Development
+
 · 📦 Utility Libraries & Tools
 
 Tech Stack Preferences:
 
 · Languages: Java, Python, C++, Assembly
+
 · Domains: AI, Systems Programming, Developer Tools
 
 Availability:
