@@ -132,11 +132,15 @@ Tech Stack Preferences:
 
 Availability:
 
-Period Status Focus
-Sun-Wed 🟢 Full-time Coding & Collaboration
-Thu-Fri 🔴 Limited Classes
-Sat AM 🟡 Part-time Light work
+<div align="center">
 
+| 🗓️ **Period** | ✅ **Status** | 🎯 **Focus** |
+|:-------------:|:------------:|:------------:|
+| **Sun-Wed** | 🟢 Full-time | Coding & Collaboration |
+| **Thu-Fri** | 🔴 Limited | Classes |
+| **Sat AM** | 🟡 Part-time | Light work |
+
+</div>
 ---
 
 ## 📊 GitHub Analytics
