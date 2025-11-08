@@ -9,7 +9,9 @@
 ## 🧠 **About Me**
 
 🎨 **Multimedia Arts Student** |
+
 🤖 **AI-Augmented Programmer** |
+
 🛠️ **Systems Architect**
 
 I'm a 19-year-old developer who builds complex systems **entirely from my phone**. I specialize in programming language design, emergent AI architectures, and data compression systems. My journey started at 13 with HTML inspection and evolved into creating complete programming languages and rethinking artificial intelligence.
@@ -47,13 +49,13 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 
 ## 🛠️ **Technical Stack**
 
-### **💻 Programming Languages**
+#### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-7-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-8E0E87?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### **📱 Mobile Development Setup**
+#### 📱 Mobile Development Setup
 ![Java NIDE](https://img.shields.io/badge/Java_NIDE-Mobile_IDE-FF6B00?style=for-the-badge)
 ![Termux](https://img.shields.io/badge/Termux-Terminal-00B894?style=for-the-badge)
 ![AI Assistants](https://img.shields.io/badge/AI_Assistants-Deepseek/Gemini-7C3AED?style=for-the-badge)
