@@ -1,9 +1,36 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danison+Nuñez!;" />
-</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Danison+Nuñez!;&color=00D4FF&bold=true" />
+
+<!-- Subtitle with gradient effect -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Multimedia Artist × AI-Augmented Programmer × Systems Architect
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- Stats Cards -->
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DanexCodr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanexCodr&layout=compact&langs_count=8&theme=radical" />
+</div>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanexCodr&theme=radical&fire=00D4FF&ring=00D4FF" alt="mystreak"/>
+
+<!-- Welcome Message -->
+<div align="center">
+  <br>
+  <p>
+    <b>🎯 Building tomorrow's tools with today's constraints</b><br>
+    <i>Mobile-first developer crafting programming languages & AI systems from a smartphone</i>
+  </p>
+</div>
+
 </div>
 
 ## 🧠 **About Me**
