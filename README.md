@@ -87,9 +87,7 @@ timeline
         AI Research : Developing GESAI<br>architecture
         Systems Design : Created BitDT<br>time encoding
         
-    %% Individual styling
-    classDef blackRect fill:#000000,color:#ffffff,stroke-width:2px
-    class section,title blackRect
+    class section,title
 ```
 
 ---
