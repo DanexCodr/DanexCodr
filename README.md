@@ -8,7 +8,9 @@
 
 ## 🧠 **About Me**
 
-🎨 **Multimedia Arts Student** | 🤖 **AI-Augmented Programmer** | 🛠️ **Systems Architect**
+🎨 **Multimedia Arts Student** |
+🤖 **AI-Augmented Programmer** |
+🛠️ **Systems Architect**
 
 I'm a 19-year-old developer who builds complex systems **entirely from my phone**. I specialize in programming language design, emergent AI architectures, and data compression systems. My journey started at 13 with HTML inspection and evolved into creating complete programming languages and rethinking artificial intelligence.
 
@@ -73,7 +75,7 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 
 ---
 
-## 📈 **Development Journey**
+### 📈 **Development Journey**
 
 <div align="center">
 
@@ -87,16 +89,16 @@ I'm a 19-year-old developer who builds complex systems **entirely from my phone*
 </div>
 ---
 
-🎨 Beyond Programming
+## 🎨 Beyond Programming
 
-Creative Pursuits
+#### Creative Pursuits
 
 · 🎸 Guitar & Music Production - Creating original compositions
 · ✏️ Digital Art & Sketching - Multimedia arts background
 · ♟️ Chess Strategy - Applying strategic thinking to code
 · 📚 Novel Writing - World-building and story design
 
-Personality & Approach
+#### Personality & Approach
 
 · MBTI: INTP - The Architect
 · Philosophy: "If it works, don't touch it" (with backup scaffolds)
@@ -104,7 +106,7 @@ Personality & Approach
 
 ---
 
-🤝 Collaboration & Opportunities
+## 🤝 Collaboration & Opportunities
 
 I'm Interested In:
 
@@ -127,7 +129,7 @@ Sat AM 🟡 Part-time Light work
 
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanexCodr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -140,7 +142,7 @@ Sat AM 🟡 Part-time Light work
 
 ---
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danison-nu%C3%B1ez-6950172b8" target="_blank">
