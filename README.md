@@ -88,7 +88,7 @@ timeline
         Systems Design : Created BitDT<br>time encoding
         
     %% Individual styling
-    classDef blackRect fill:#000000,stroke:#000000,color:#ffffff,stroke-width:2px
+    classDef blackRect fill:#000000,color:#ffffff,stroke-width:2px
     class section,title blackRect
 ```
 
