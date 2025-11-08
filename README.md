@@ -106,7 +106,7 @@
 
 · MBTI: INTP - The Architect
 
-· Philosophy: "If it works, don't touch it" (with backup scaffolds incase you did touch it)
+· Philosophy: "If it works, don't touch it" (with backup scaffolds in case you did touch it)
 
 · Workflow: AI-brainstorming → Mobile implementation → System optimization
 
