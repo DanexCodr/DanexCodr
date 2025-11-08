@@ -29,7 +29,8 @@
 #### **💻 Coderive** 
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
-- ✅ Native assembly generation  
+- ✅ Native assembly code generation
+- ✅ AOT compiler with some JIT implementations
 - ✅ Built solo in 1 month
 - 🎯 **Status**: Fully functional
 
@@ -43,7 +44,7 @@
 *Java 8 IDE for Android*
 - Mobile-first development environment
 - Designed for on-the-go coding
-- **Status**: In development
+- **Status**: In de velopment
 
 ---
 
