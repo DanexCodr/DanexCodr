@@ -20,7 +20,8 @@
 
 ### 🚀 **My Core Projects**
 
-#### [**💻 Coderive**](https://github.com/DanexCodr/Coderive) ![Status](https://img.shields.io/badge/Status-In_Development-orange) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
+#### [**💻 Coderive**](https://github.com/DanexCodr/Coderive)
+![Status](https://img.shields.io/badge/Status-In_Development-orange) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
@@ -28,20 +29,23 @@
 - ✅ AOT compiler with some JIT implementations
 - ✅ Built solo in 1 month
 
-#### [**⏰ BitDT**](https://github.com/DanexCodr/BitDT) ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
+#### [**⏰ BitDT**](https://github.com/DanexCodr/BitDT)
+![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Revolutionary Time Encoding*
 - Encodes UTC timestamps in just 10 characters
 - Covers 50k BCE to 200k CE with millisecond accuracy
 - Ultra-compact data representation
 
-#### **🏗️ GESAI** (Private) ![Status](https://img.shields.io/badge/Status-In_Development-orange)
+#### **🏗️ GESAI** (Private)
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
 *Generative & Emergent Symbolic Artificial Intelligence*
 - My vision for the successor to GOFAI
 - Moving from fixed symbols to generated mental models
 - Currently in active development
 
-#### **📱 DroidBuild** (Private) ![Status](https://img.shields.io/badge/Status-In_Development-orange)
+#### **📱 DroidBuild** (Private)
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
 
 *Java 8 IDE for Android*
 - Mobile-first development environment
