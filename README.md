@@ -20,7 +20,7 @@
 
 ### 🚀 **My Core Projects**
 
-#### **🏗️ GESAI** (Private)
+#### **🏗️ GESAI** (Private) ![Status](https://img.shields.io/badge/Status-In_Development-orange)
 *Generative & Emergent Symbolic Artificial Intelligence*
 - My vision for the successor to GOFAI
 - Moving from fixed symbols to generated mental models
