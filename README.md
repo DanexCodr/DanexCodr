@@ -20,12 +20,6 @@
 
 ### 🚀 **My Core Projects**
 
-#### **🏗️ GESAI** (Private) ![Status](https://img.shields.io/badge/Status-In_Development-orange)
-*Generative & Emergent Symbolic Artificial Intelligence*
-- My vision for the successor to GOFAI
-- Moving from fixed symbols to generated mental models
-- Currently in active development
-
 #### [**💻 Coderive**](https://github.com/DanexCodr/Coderive) ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Complete Programming Language Ecosystem*
@@ -41,7 +35,13 @@
 - Covers 50k BCE to 200k CE with millisecond accuracy
 - Ultra-compact data representation
 
-#### **📱 DroidBuild** ![Status](https://img.shields.io/badge/Status-In_Development-orange)
+#### **🏗️ GESAI** (Private) ![Status](https://img.shields.io/badge/Status-In_Development-orange)
+*Generative & Emergent Symbolic Artificial Intelligence*
+- My vision for the successor to GOFAI
+- Moving from fixed symbols to generated mental models
+- Currently in active development
+
+#### **📱 DroidBuild** (Private) ![Status](https://img.shields.io/badge/Status-In_Development-orange)
 
 *Java 8 IDE for Android*
 - Mobile-first development environment
