@@ -41,11 +41,11 @@
 - Covers 50k BCE to 200k CE with millisecond accuracy
 - Ultra-compact data representation
 
-#### **📱 DroidBuild**
+#### **📱 DroidBuild** ![Status](https://img.shields.io/badge/Status-In_Development-orange)
+
 *Java 8 IDE for Android*
 - Mobile-first development environment
 - Designed for on-the-go coding
-- **Status**: In development
 
 ---
 
