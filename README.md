@@ -38,7 +38,7 @@
 - Ultra-compact data representation
 
 #### **🏗️ GESAI** (Private)
-![Status](https://img.shields.io/badge/Status-In_Development-orange)
+![Status](https://img.shields.io/badge/Status-In_Development-orange) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Generative & Emergent Symbolic Artificial Intelligence*
 - My vision for the successor to GOFAI
