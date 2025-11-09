@@ -41,7 +41,7 @@
 ![Status](https://img.shields.io/badge/Status-In_Development-orange) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Generative & Emergent Symbolic Artificial Intelligence*
-- My vision for the successor to GOFAI
+- My vision for the successor to GOFAI (traditional Symbolic AI)
 - Moving from fixed symbols to generated mental models
 - Currently in active development
 
