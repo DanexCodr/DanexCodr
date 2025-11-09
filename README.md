@@ -26,18 +26,15 @@
 - Moving from fixed symbols to generated mental models
 - Currently in active development
 
-#### **💻 Coderive** ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
-Repository link: [https://github.com/DanexCodr/Coderive](https://github.com/DanexCodr/Coderive)
+#### [**💻 Coderive**](https://github.com/DanexCodr/Coderive) ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
 - ✅ Native assembly code generation
 - ✅ AOT compiler with some JIT implementations
 - ✅ Built solo in 1 month
-- 🎯 **Status**: Fully functional
 
-#### **⏰ BitDT** ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
-Repository link: [https://github.com/DanexCodr/BitDT](https://github.com/DanexCodr/BitDT)
+#### [**⏰ BitDT**](https://github.com/DanexCodr/BitDT) ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Revolutionary Time Encoding*
 - Encodes UTC timestamps in just 10 characters
@@ -48,7 +45,7 @@ Repository link: [https://github.com/DanexCodr/BitDT](https://github.com/DanexCo
 *Java 8 IDE for Android*
 - Mobile-first development environment
 - Designed for on-the-go coding
-- **Status**: In de velopment
+- **Status**: In development
 
 ---
 
