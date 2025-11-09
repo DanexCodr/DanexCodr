@@ -20,7 +20,7 @@
 
 ### 🚀 **My Core Projects**
 
-#### [**💻 Coderive**](https://github.com/DanexCodr/Coderive) ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
+#### [**💻 Coderive**](https://github.com/DanexCodr/Coderive) ![Status] (https://img.shields.io/badge/Status-In Development-orange)![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
