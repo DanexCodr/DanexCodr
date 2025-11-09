@@ -28,6 +28,7 @@
 
 #### **💻 Coderive** ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 Repository link: [https://github.com/DanexCodr/Coderive](https://github.com/DanexCodr/Coderive)
+
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
 - ✅ Native assembly code generation
@@ -37,6 +38,7 @@ Repository link: [https://github.com/DanexCodr/Coderive](https://github.com/Dane
 
 #### **⏰ BitDT** ![Status](https://img.shields.io/badge/Status-Functional-brightgreen)
 Repository link: [https://github.com/DanexCodr/BitDT](https://github.com/DanexCodr/BitDT)
+
 *Revolutionary Time Encoding*
 - Encodes UTC timestamps in just 10 characters
 - Covers 50k BCE to 200k CE with millisecond accuracy
