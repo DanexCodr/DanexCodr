@@ -21,7 +21,7 @@
 ### 🚀 **My Core Projects**
 
 #### [**💻 Coderive**](https://github.com/DanexCodr/Coderive)
-![Status](https://img.shields.io/badge/Status-In_Development-orange) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Complete Programming Language Ecosystem*
 - ✅ Full AST implementation
@@ -38,7 +38,7 @@
 - Ultra-compact data representation
 
 #### **🏗️ GESAI** (Private)
-![Status](https://img.shields.io/badge/Status-In_Development-orange) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Generative & Emergent Symbolic Artificial Intelligence*
 - My vision for the successor to GOFAI (traditional Symbolic AI)
@@ -46,7 +46,7 @@
 - Currently in active development
 
 #### **📱 DroidBuild** (Private)
-![Status](https://img.shields.io/badge/Status-In_Development-orange)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow)
 
 *Java 8 IDE for Android*
 - Mobile-first development environment
