@@ -37,10 +37,10 @@
 - Covers 50k BCE to 200k CE with millisecond accuracy
 - Ultra-compact data representation
 
-#### **🏗️ GESAI** (Private)
+#### **🏗️ GEPS-AI** (Private)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
-*Generative & Emergent Symbolic Artificial Intelligence*
+*Generative & Emergent Pure Symbolic Artificial Intelligence*
 - My vision for the successor to GOFAI (traditional Symbolic AI)
 - Moving from fixed symbols to generated mental models
 - Currently in active development
