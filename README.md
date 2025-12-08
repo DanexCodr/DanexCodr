@@ -37,11 +37,11 @@
 - Covers 50k BCE to 200k CE with millisecond accuracy
 - Ultra-compact data representation
 
-#### **🏗️ GEPS-AI** (Private)
+#### **🏗️ Constructivist AI** (Private)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
-*Generative & Emergent Pure Symbolic Artificial Intelligence*
-- My vision for the successor to GOFAI (traditional Symbolic AI)
+*Constructivist AI/ Object-Oriented Cognition (OOC)*
+- My vision for the successor to GOFAI (traditional Symbolic AI) and massive LLMs
 - Moving from fixed symbols to generated mental models
 - Currently in active development
 
