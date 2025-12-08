@@ -37,7 +37,7 @@
 - Covers 50k BCE to 200k CE with millisecond accuracy
 - Ultra-compact data representation
 
-#### **🏗️ Constructivist AI** (Private)
+#### [**🏗️ Constructivist AI**](https://github.com/DanexCodr/Constructivist-AI)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Core](https://img.shields.io/badge/Status-Functional-brightgreen)
 
 *Constructivist AI/ Object-Oriented Cognition (OOC)*
