@@ -92,7 +92,7 @@
 |------------|------------|------------|
 | **Discovery Era** | **Foundation Era** | **Innovation Era** |
 | First code exposure | Mobile Java development | **Coderive** language |
-| HTML inspection at computer shop | Java NIDE • Self-taught | **GESAI** AI architecture |
+| HTML inspection at computer shop | Java NIDE • Self-taught | **Constructivist** AI architecture |
 | Programming curiosity begins | Mobile-first workflow established | **BitDT** time encoding |
 
 </div>
